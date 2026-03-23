@@ -1,6 +1,6 @@
 # Midoritei - Restaurant Management System
 
-注文管理システム「みどり亭」の Laravel ベースの実装です。
+注文管理システムの Laravel ベースの実装です。
 
 ## システム概要
 
